@@ -1,0 +1,7 @@
+[data-theme="dark"] {
+  --color-primary: hsl(0, 0%, 100%);
+  --color-secondary: hsl(228, 34%, 66%);
+  --color-card-background: hsl(228, 28%, 20%);
+  --color-card-background-hover: hsl(232, 19%, 15%);
+  --color-background: hsl(230, 17%, 14%);
+}
