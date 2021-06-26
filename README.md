@@ -10,14 +10,28 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![desktop-4-col-light](./images/desktop-4-col-light.png)
+![desktop-4-col-dark](./images/desktop-4-col-dark.png)
+![desktop-3-col-light](./images/desktop-3-col-light.png)
+![desktop-3-col-dark](./images/desktop-3-col-dark.png)
+![desktop-2-col-light](./images/desktop-2-col-light.png)
+![desktop-2-col-dark](./images/desktop-2-col-dark.png)
+![mobile-light-1](./images/mobile-light-1.png)
+![mobile-light-2](./images/mobile-light-2.png)
+![mobile-light-3](./images/mobile-light-3.png)
+![mobile-dark-1](./images/mobile-dark-1.png)
+![mobile-dark-2](./images/mobile-dark-2.png)
+![mobile-dark-3](./images/mobile-dark-3.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Github](https://github.com/atulanand206/fem-social-media)
+- Live Site URL: [Netlify](https://fem-social-media.netlify.app/)
 
 ## My process
+- Beautiful work using Grid.
+- Loved the way it turned out. The css file is looking marvellous.
+- Proud of how I was able craft the css selectors with partial functionality. This can definitely be imroved in coming days.
 
 ### Built with
 
@@ -26,11 +40,10 @@ Users should be able to:
 - Flexbox
 - CSS Grid
 - Mobile-first workflow
-- [React](https://reactjs.org/) - JS library
-- [Next.js](https://nextjs.org/) - React framework
-- [Styled Components](https://styled-components.com/) - For styles
 
 ### What I learned
+
+- Structure.
 
 ## Author
 
